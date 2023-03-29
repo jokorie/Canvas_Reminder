@@ -1,0 +1,18 @@
+1679756725845	geckodriver	INFO	Listening on 127.0.0.1:64488
+1679756985099	geckodriver	INFO	Listening on 127.0.0.1:64852
+1679756988153	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64853" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofile9tXfwB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679756988446	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679756988450	Marionette	INFO	Listening on port 64863
+WebDriver BiDi listening on ws://127.0.0.1:64853
+Read port: 64863
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\justi\\AppData\\Local\\Temp\\rust_mozprofile9tXfwB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64853/devtools/browser/2e6d38a1-b73c-4bae-923d-9036d641f957
+1679756990031	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: (new Error("Polling for changes failed: NetworkError: Network request failed.", "resource://services-settings/remote-settings.js", 334))
+1679936852499	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1679943567567	Marionette	INFO	Stopped listening on port 64863
+Dynamically enable window occlusion 1
